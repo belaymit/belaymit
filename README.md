@@ -1,4 +1,4 @@
-[[!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/belaymit?tab=repositories)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/belaymit?tab=repositories)
 <h1 align="center">Hi 👋, I'm Belay Birhanu G</h1>
 <h3 align="center">A full-stack web developer with a strong interest in frontend development,from Ethiopia</h3>
 <img align="right" alt="coding" width="200" height="200" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/141589133/original/6e0b093b857d051c28a8fcf6a2a38b295b4bc76a/do-full-stack-development-for-you.jpg">
