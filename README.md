@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/belaymit?tab=repositories)
 <h1 align="center">Hi 👋, I'm Belay Birhanu G</h1>
-<h3 align="center">A full-stack web developer with a strong interest in frontend development,from Ethiopia</h3>
+<h3 align="center">A full-stack web developer with a strong interest in frontend web development, from Ethiopia</h3>
 <img align="right" alt="coding" width="200" height="200" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/141589133/original/6e0b093b857d051c28a8fcf6a2a38b295b4bc76a/do-full-stack-development-for-you.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belaymit&label=Profile%20views&color=0e75b6&style=flat" alt="belaymit" /> </p>
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/belaymit?tab=repositories](https://github.com/belaymit?tab=repositories)
 
-- 💬 Ask me about **html, CSS, JavaScript and react**
+- 💬 Ask me about **HTML, CSS, JavaScript and ReactJS**
 
 - 📫 How to reach me **2belamit@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I enjoy historical films**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
