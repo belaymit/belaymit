@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at (https://belaymit.github.io/Portfolio-microverse/)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
--
+
 - 📄 Know about my experiences(https://www.linkedin.com/in/belay-birhanu-144ba714b/)
 
 - 📫 How to reach me **2belamit@gmail.com**
