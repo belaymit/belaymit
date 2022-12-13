@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/2belamit" target="blank"><img src="https://img.shields.io/twitter/follow/2belamit?logo=twitter&style=for-the-badge" alt="2belamit" /></a> </p>
 
-- 🔭 I’m currently working on [Capstone Project](https://belaymit.github.io/Microverse-Capstone-Project-M1/)
-
 - 🌱 I’m currently learning **Full stack Web development @ Microverse coding school**
 
-- 👨‍💻 All of my projects are available at [https://github.com/belaymit?tab=repositories](https://github.com/belaymit?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://belaymit.github.io/Portfolio-microverse/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and ReactJS**
+- 💬 Ask me about **HTML, CSS and JavaScript**
+-
+- 📄 Know about my experiences(https://www.linkedin.com/in/belay-birhanu-144ba714b/)
 
 - 📫 How to reach me **2belamit@gmail.com**
 
