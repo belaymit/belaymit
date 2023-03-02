@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at (https://belaymit.github.io/Portfolio-microverse/)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **JavaScript, React, Redux, Angular, SASS, Ant Design**
 
 - 📄 Know about my experiences(https://www.linkedin.com/in/belay-birhanu-144ba714b/)
 
