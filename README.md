@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Full stack Web development @ Microverse coding school**
 
-- 👨‍💻 All of my projects are available at (https://belaymit.github.io/Portfolio-microverse/)
+- 👨‍💻 All of my projects are available [her](https://belay-portfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Redux, Angular, SASS, Ant Design**
+- 💬 Ask me about **JavaScript, React, Redux, SASS, Ant Design, Ruby, Ruby on Rails, MySQL, PostgreSQL**
 
-- 📄 Know about my experiences(https://www.linkedin.com/in/belay-birhanu-144ba714b/)
+- 📄 Know about my [experiences](https://www.linkedin.com/in/belay-bgwa/)
 
 - 📫 How to reach me **2belamit@gmail.com**
 
