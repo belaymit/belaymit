@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full stack Web development @ Microverse coding school**
 
-- 👨‍💻 All of my projects are available [her](https://belay-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://belay-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux, SASS, Ant Design, Ruby, Ruby on Rails, MySQL, PostgreSQL**
 
