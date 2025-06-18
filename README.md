@@ -59,12 +59,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belaymit&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
-## 🏆 Professional Highlights
+## 🏆 Professional Experience
 - **4+ years** full-stack development experience
-- **3 years** building AI/ML solutions
-- **Mentored 15+ developers** in modern tech stacks
-- **Speaker** at 5+ tech conferences
-- **Open source contributor** to 10+ projects
+
+**10 Academy** (Remote)  
+*Frontend Developer | Sep 2023 - Present*  
+- Engineered real-time AI interview features using WebSockets, enhancing user engagement  
+
+**10 Academy** (Remote)  
+*Frontend Developer Intern | Jun - Sep 2023*  
+- Implemented comprehensive accessibility features (ARIA, keyboard nav) where none existed  
+
+**MichuTech IT Solutions** (Remote)  
+*Project Manager | Dec 2023 - Sep 2024*  
+- Delivered 5+ web projects on schedule with optimized CI/CD pipelines  
+
+**Microverse** (Remote)  
+*Mentor | Oct 2022 - Jun 2023*  
+- Coached 15+ developers in performance optimization and clean code practices  
+
+**Freelance**  
+*Web Developer | Jan 2019 - Jan 2021*  
+- Designed and developed 10+ websites for healthcare and education clients  
+
 
 ## 📫 Let's Build Something Amazing
 - Portfolio: [belay-portfolio.netlify.app](https://belay-portfolio.netlify.app/)
