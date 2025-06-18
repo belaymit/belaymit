@@ -3,13 +3,13 @@
 <h1 align="left">Hi 👋, I'm Belay Birhanu G</h1>
 <h3 align="left">Full-Stack Developer | AI Enthusiast </h3>
 
-<img align="right" alt="React coding" width="300" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h4>🚀 Technical Profile</h4>
 
-### 🚀 Technical Profile
-🔭 Currently building AI-powered applications at **10 Academy**
-🌱 Mastering **LLM Integration & MLOps Pipelines**
-👯 Looking to collaborate on **AI/ML projects**
-💬 Ask me about **React optimization, FastAPI, or AI model deployment**
+  - 🔭 Currently building AI-powered applications at **10 Academy**
+  - 🌱 Mastering **LLM Integration & MLOps Pipelines**
+  - 👯 Looking to collaborate on **AI/ML projects**
+  - 💬 Ask me about **React optimization, FastAPI, or AI model deployment**
 
 <p align="left">
   <a href="https://twitter.com/2belamit" target="blank"><img src="https://img.shields.io/twitter/follow/2belamit?logo=twitter&style=for-the-badge" alt="2belamit" /></a>
@@ -18,17 +18,17 @@
 </p>
 
 ## 🛠 Technical Stack
+### Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### AI/ML Expertise
+### AI/ML Experience
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & Databases
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
