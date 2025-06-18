@@ -5,10 +5,11 @@
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h4>🚀 Technical Profile</h4>
-
-  - 🔭 Currently building AI-powered applications at **10 Academy**
-  - 🌱 Mastering **LLM Integration & MLOps Pipelines**
-  - 👯 Looking to collaborate on **AI/ML projects**
+ 
+  - 🔭 **Frontend Engineer** (React/Next.js/TypeScript) at **10 Academy** 
+  - 🌱 **Full-Stack Capable** – Node.js, Python, LLM Integrations 
+  - 🚀 Building **AI-enhanced web apps** with 10k+ users
+  - 👯 Open to collabs on **React, Next.js, or API/LLM projects**  
   - 💬 Ask me about **React optimization, FastAPI, or AI model deployment**
 
 <p align="left">
