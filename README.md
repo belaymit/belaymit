@@ -1,16 +1,15 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_MIG8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/belaymit?tab=repositories)
 
-<h1 align="center">Hi 👋, I'm Belay Birhanu G</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast </h3>
+<h1 align="left">Hi 👋, I'm Belay Birhanu G</h1>
+<h3 align="left">Full-Stack Developer | AI Enthusiast </h3>
 
-<img align="right" alt="AI coding" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="AI coding" width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 ### 🚀 Technical Profile
-- 🔭 Currently building AI-powered applications at **10 Academy**
-- 🌱 Mastering **LLM Integration & MLOps Pipelines**
-- 👯 Looking to collaborate on **AI/ML projects**
-- 💬 Ask me about **React optimization, FastAPI, or AI model deployment**
-- ⚡ Fun fact: **I train ML models in my spare time**
+🔭 Currently building AI-powered applications at **10 Academy**
+🌱 Mastering **LLM Integration & MLOps Pipelines**
+👯 Looking to collaborate on **AI/ML projects**
+💬 Ask me about **React optimization, FastAPI, or AI model deployment**
 
 <p align="left">
   <a href="https://twitter.com/2belamit" target="blank"><img src="https://img.shields.io/twitter/follow/2belamit?logo=twitter&style=for-the-badge" alt="2belamit" /></a>
@@ -44,7 +43,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 ## 🔥 Performance Milestones
-- **Deployed 3 production AI models** with 95%+ accuracy
 - **Optimized React apps** to 90+ Lighthouse scores
 - **Reduced API response times** by 60% with FastAPI
 - **Built scalable data pipelines** handling 10k+ RPM
