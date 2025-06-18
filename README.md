@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Belay Birhanu G</h1>
 <h3 align="left">Full-Stack Developer | AI Enthusiast </h3>
 
-<img align="right" alt="AI coding" width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="React coding" width="300" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
 
 ### 🚀 Technical Profile
 🔭 Currently building AI-powered applications at **10 Academy**
